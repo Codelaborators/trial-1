@@ -1,11 +1,11 @@
 codelaborators initiation:
-* clone the "develop" branch of this repository
-* create a feature branch named "<your username>"
-* make sure you have switched (i.e. checked out) your feature branch
+* fork this repository
+* clone your fork
 * add your username to codelaborators.txt
 * commit your change
-* push your feature branch up to this repository
-* create a pull request for your feature
+* push your changes to your fork (origin)
+* add an upstream remote pointing back to this repo
+* create a pull request for your changes
 
 references:
 * http://nvie.com/posts/a-successful-git-branching-model/
